@@ -1,0 +1,21 @@
+{
+    "name": "My Notes",
+    "short_name": "Notes",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#000000",
+    "description": "Moji osebni zapiski",
+    "icons": [
+        {
+            "src": "./assets/icons/manjsa.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "./assets/icons/vecja.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
