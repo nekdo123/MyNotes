@@ -6,7 +6,9 @@ const FILES = [
     "./newNote.html",
     "./css/stil.css",
     "./js/skripta.js",
-    "./manifest.json"
+    "./manifest.json",
+    "./assets/icons/manjsa.png",
+    "./assets/icons/vecja.png"
 ];
 
 self.addEventListener("install", function(event) {

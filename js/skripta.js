@@ -93,7 +93,6 @@ document.addEventListener('DOMContentLoaded', function(){
                     const index = parseInt(this.getAttribute("data-index"));
                     izbrisiZapisek(index);
                 }
-                    else skip;
             
                 
             });
